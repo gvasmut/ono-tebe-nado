@@ -32,3 +32,15 @@ a {
 img {
   width: 100%;
 }
+
+address {
+  all: initial;
+}
+
+button {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  background-color: transparent;
+}
